@@ -15,7 +15,7 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 
-Project File name: ["  EM Commodity Prices Sovereign, Country, and Political Risk Project-NYU Data Bootcamp)
+Project File name: ["  EM Commodity Prices Sovereign, Country, and Political Risk Project-NYU Data Bootcamp]
 
 Project Description
 
