@@ -16,7 +16,7 @@ the project and course.
 
 
 Project File name: ["EM Commodity Prices Sovereign, Country, and Political Risk Project-NYU Data Bootcamp"]
-Supplementary Files Names: ['Graphs of Individual EM's Country, Sovereign, Political, GDP, Exports and Imports of Commodities, 'Commodity Prices and EM's Political, Country, Sovereign Risk Analysis']
+Supplementary Files Names: ['Graphs of Individual EM's Country, Sovereign, Political, GDP, Exports and Imports of Commodities, 'Commodity Prices and EM's Political, Country, Sovereign Risk Analysis','Graphs of Individual EMs Grouped by Category')
 
 Project Description
 
