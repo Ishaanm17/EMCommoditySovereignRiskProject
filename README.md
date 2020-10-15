@@ -18,7 +18,7 @@ the project and course.
 Project File name: ["EM Commodity Prices Sovereign, Country, and Political Risk Project-NYU Data Bootcamp"]
 Presentation File Name: ["Emerging Markets' Appetite for Sovereign Risk: Exploring Relationship between EM GDP Output, Commodity Prices, and Sovereign Risk"]
 
-Supplementary Files Names: ['Graphs of Individual EM's Country, Sovereign, Political, GDP, Exports and Imports of Commodities, 'Commodity Prices and EM's Political, Country, Sovereign Risk Analysis','Graphs of Individual EMs Grouped by Category', Commodity Prices Correleation Visualization , Graphs Median Mean Quantiles 10-10-2020)
+Supplementary Files Names: ['Graphs of Individual EM's Country, Sovereign, Political, GDP, Exports and Imports of Commodities, 'Commodity Prices and EM's Political, Country, Sovereign Risk Analysis','Graphs of Individual EMs Grouped by Category', Commodity Prices Correleation Visualization , Graphs Median Mean Quantiles 10-14-2020)
 
 Project Description
 
